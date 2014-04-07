@@ -1,0 +1,1459 @@
+TPipes iOS
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Info.plist /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Info.plist
+cCpResource ios/Icon-120.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-120.png
+cCpResource ios/Icon-76.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-76.png
+cCpResource ios/Default@2x.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default@2x.png
+cCpResource ios/Icon-100.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-100.png
+cCpResource /Users/victorwee/Pipes/Pipes/Resources/CloseNormal.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/CloseNormal.png
+cCpResource ios/Icon-152.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-152.png
+cCpResource ios/Default-568h@2x.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default-568h@2x.png
+cCpResource ios/Icon-72.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-72.png
+cCpResource /Users/victorwee/Pipes/Pipes/Resources/CloseSelected.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/CloseSelected.png
+cCpResource ios/Icon-50.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-50.png
+cCpResource ios/Icon-114.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-114.png
+cCpResource /Users/victorwee/Pipes/Pipes/Resources/HelloWorld.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/HelloWorld.png
+cCpResource ios/Icon-29.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-29.png
+cCpResource ios/Icon-40.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-40.png
+cCpResource ios/Icon-144.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-144.png
+cCpResource ios/Icon-80.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-80.png
+cCpResource ios/Icon-57.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-57.png
+cCpResource ios/Default.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default.png
+cCpResource ios/Icon-58.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-58.png
+cProcessPCH++ /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppController.o /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/RootViewController.o /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/main.o /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOS normal i386
+cGenerateDSYMFile /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app.dSYM /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOS
+cTouch /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000532425D900000000000003B4
+t1394877913
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532425EA000000000000019E
+t1394877930
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000532425EE0000000000484210
+t1394877934
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000532425EE0000000000904120
+t1394877934
+s9453856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000532425F00000000000446820
+t1394877936
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532425F3000000000088D8C0
+t1394877939
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c00000000532425F6000000000007C0D0
+t1394877942
+s508112
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000532425F60000000000037680
+t1394877942
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000532425F7000000000048F720
+t1394877943
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532425FE0000000001F1DE10
+t1394877950
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c0000000053242632000000000002B700
+t1394878002
+s177920
+
+N/Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp
+c00000000533A99940000000000000558
+t1396349332
+s1368
+
+N/Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp
+c00000000533AA30A0000000000000AB2
+t1396351754
+s2738
+
+N/Users/victorwee/Pipes/Pipes/Resources/CloseNormal.png
+c00000000533A999400000000000018A7
+t1396349332
+s6311
+
+N/Users/victorwee/Pipes/Pipes/Resources/CloseSelected.png
+c00000000533A9994000000000000157B
+t1396349332
+s5499
+
+N/Users/victorwee/Pipes/Pipes/Resources/HelloWorld.png
+c00000000533A99940000000000021E19
+t1396349332
+s138777
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app
+t1396639120
+s816
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app.dSYM
+t2
+s0
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/CloseNormal.png
+t1396639111
+s6311
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/CloseSelected.png
+t1396639111
+s5499
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Default-568h@2x.png
+t1396639111
+s193731
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Default.png
+t1396639111
+s89508
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Default@2x.png
+t1396639111
+s580904
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/HelloWorld.png
+t1396639111
+s138777
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-100.png
+t1396639111
+s17283
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-114.png
+t1396639111
+s16537
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-120.png
+t1396639111
+s23871
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-144.png
+t1396639111
+s26403
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-152.png
+t1396639111
+s33665
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-29.png
+t1396639111
+s4038
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-40.png
+t1396639111
+s5478
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-50.png
+t1396639111
+s7038
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-57.png
+t1396639111
+s8960
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-58.png
+t1396639111
+s8433
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-72.png
+t1396639111
+s11453
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-76.png
+t1396639111
+s13250
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-80.png
+t1396639111
+s12489
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Info.plist
+t1396639111
+s1152
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Pipes iOS
+t1396639120
+s7877748
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/PkgInfo
+t1396639111
+s8
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/libCocosDenshion iOS.a
+c00000000533F05870000000000055150
+t1396639111
+s348496
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/libbox2d iOS.a
+c00000000533F058500000000001CDBD0
+t1396639109
+s1891280
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/libchipmunk iOS.a
+c00000000533F04DA00000000000BEAB0
+t1396638938
+s780976
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/libcocos2dx iOS.a
+c00000000533F0571000000000CED9A78
+t1396639089
+s216898168
+
+N/Users/victorwee/Pipes/Pipes/bin/debug/ios/libcocos2dx-extensions iOS.a
+c00000000533F05810000000001489798
+t1396639105
+s21534616
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/AppController.o
+t1396639113
+s929660
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/AppDelegate.o
+t1396639115
+s1096528
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/HelloWorldScene.o
+t1396639115
+s1525756
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/Pipes iOS.LinkFileList
+c00000000533F0587000000000000029A
+t1396639111
+s666
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/RootViewController.o
+t1396639113
+s1130564
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/main.o
+t1396639113
+s4060
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/AppController.mm
+c00000000533AA30A000000000000164D
+t1396351754
+s5709
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Default-568h@2x.png
+c00000000533A9994000000000002F4C3
+t1396349332
+s193731
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Default.png
+c00000000533A99940000000000015DA4
+t1396349332
+s89508
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Default@2x.png
+c00000000533A9994000000000008DD28
+t1396349332
+s580904
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-100.png
+c00000000533A99940000000000004383
+t1396349332
+s17283
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-114.png
+c00000000533A99940000000000004099
+t1396349332
+s16537
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-120.png
+c00000000533A99940000000000005D3F
+t1396349332
+s23871
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-144.png
+c00000000533A99940000000000006723
+t1396349332
+s26403
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-152.png
+c00000000533A99940000000000008381
+t1396349332
+s33665
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-29.png
+c00000000533A99940000000000000FC6
+t1396349332
+s4038
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-40.png
+c00000000533A99940000000000001566
+t1396349332
+s5478
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-50.png
+c00000000533A99940000000000001B7E
+t1396349332
+s7038
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-57.png
+c00000000533A99940000000000002300
+t1396349332
+s8960
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-58.png
+c00000000533A999400000000000020F1
+t1396349332
+s8433
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-72.png
+c00000000533A99940000000000002CBD
+t1396349332
+s11453
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-76.png
+c00000000533A999400000000000033C2
+t1396349332
+s13250
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-80.png
+c00000000533A999400000000000030C9
+t1396349332
+s12489
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Info.plist
+c00000000533A999400000000000007CC
+t1396349332
+s1996
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch
+c00000000533F04AE00000000000000B5
+t1396638894
+s181
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.mm
+c00000000533A99940000000000000DF6
+t1396349332
+s3574
+
+N/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/main.m
+c00000000533F04AE00000000000000F2
+t1396638894
+s242
+
+N/var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch.pch
+t1396639112
+s5369508
+
+N/var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch.pch
+t1396639111
+s122640
+
+N/var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch.pch
+t1396639112
+s6313368
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies36cab2073defb841^5d8cb5073defb841^---0#1#1#--18"Check dependencies36"C1E74BA1-480D-479E-BEA9-13883E37C8FC-
+
+CCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppController.o /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418331912.248810
+e418331913.845700
+r1
+xCompileC
+xbuild/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/AppController.o
+x/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/AppController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/AppController.mm
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/AppController.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccConfig.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/cocos2d.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAction.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCRef.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCGeometry.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccMacros.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCConsole.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCArray.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccCArray.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEvent.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCSet.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProtocols.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccTypes.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListener.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCVector.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAnimation.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCValue.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionManager.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionEase.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionTween.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDictionary.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/uthash.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCString.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCMap.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCInteger.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCFloat.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDouble.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCBool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCNS.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCData.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGrabber.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDirector.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventType.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabel.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLayer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScene.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransition.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMenu.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSprite.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccShaders.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccUTF8.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNotificationCenter.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProfiling.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCVertex.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScheduler.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCComponent.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDeprecated.h
+d/Users/victorwee/Pipes/Pipes/Classes/AppDelegate.h
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/AppController.mm208"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppController.o [1mios/AppController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler79cd3f083defb841^d880d8093defb841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/AppController.mm0000000000000000^4289"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppController.o [1mios/AppController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Pipes\ iOS.hmap -I/Users/victorwee/Pipes/Pipes/bin/debug/ios/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/base -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/physics -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/ui -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/network -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/extensions -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources/i386 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources -F/Users/victorwee/Pipes/Pipes/bin/debug/ios -include /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch -MMD -MT dependencies -MF /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppController.d --serialize-diagnostics /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppController.dia -c /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/AppController.mm -o /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppController.o36"CA45C153-3C7D-4B33-869A-A4F3A3B6E42C-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418331913.846966
+e418331915.409357
+r1
+xCompileC
+xbuild/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/AppDelegate.o
+x/Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp
+d/Users/victorwee/Pipes/Pipes/Classes/AppDelegate.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/cocos2d.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccConfig.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAction.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCRef.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCGeometry.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccMacros.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCConsole.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCArray.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccCArray.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEvent.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCSet.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProtocols.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccTypes.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListener.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCVector.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAnimation.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCValue.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionManager.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionEase.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionTween.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDictionary.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/uthash.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCString.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCMap.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCInteger.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCFloat.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDouble.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCBool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCNS.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCData.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGrabber.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDirector.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventType.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabel.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLayer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScene.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransition.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMenu.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSprite.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccShaders.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccUTF8.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNotificationCenter.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProfiling.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCVertex.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScheduler.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCComponent.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDeprecated.h
+d/Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp228"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppDelegate.o [1m/Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler0ff0d8093defb841^72e1680b3defb841^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp0000000000000000^4046"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppDelegate.o [1m/Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Pipes\ iOS.hmap -I/Users/victorwee/Pipes/Pipes/bin/debug/ios/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/base -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/physics -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/ui -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/network -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/extensions -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources/i386 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources -F/Users/victorwee/Pipes/Pipes/bin/debug/ios -include /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch -MMD -MT dependencies -MF /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppDelegate.dia -c /Users/victorwee/Pipes/Pipes/Classes/AppDelegate.cpp -o /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/AppDelegate.o36"6F3BC608-7DB5-47AF-A735-ABD9753E0AC8-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418331913.897534
+e418331915.657476
+r1
+xCompileC
+xbuild/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp
+d/Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/cocos2d.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccConfig.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAction.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCRef.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCGeometry.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccMacros.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCConsole.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCArray.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccCArray.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEvent.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCSet.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProtocols.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccTypes.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListener.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCVector.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAnimation.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCValue.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionManager.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionEase.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionTween.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDictionary.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/uthash.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCString.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCMap.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCInteger.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCFloat.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDouble.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCBool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCNS.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCData.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGrabber.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDirector.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventType.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabel.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLayer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScene.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransition.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMenu.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSprite.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccShaders.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccUTF8.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNotificationCenter.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProfiling.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCVertex.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScheduler.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCComponent.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDeprecated.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp236"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/HelloWorldScene.o [1m/Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilere0d6e5093defb841^0151a80b3defb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp0000000000000000^4070"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/HelloWorldScene.o [1m/Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Pipes\ iOS.hmap -I/Users/victorwee/Pipes/Pipes/bin/debug/ios/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/base -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/physics -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/ui -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/network -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/extensions -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources/i386 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources -F/Users/victorwee/Pipes/Pipes/bin/debug/ios -include /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch -MMD -MT dependencies -MF /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/HelloWorldScene.d --serialize-diagnostics /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/HelloWorldScene.dia -c /Users/victorwee/Pipes/Pipes/Classes/HelloWorldScene.cpp -o /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/HelloWorldScene.o36"17585C7A-71D9-4469-BD57-56BD5053CB6B-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/RootViewController.o /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418331912.249360
+e418331913.876576
+r1
+xCompileC
+xbuild/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/RootViewController.o
+x/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.mm
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/cocos2d.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccConfig.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAction.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCRef.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCGeometry.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccMacros.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCConsole.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCArray.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccCArray.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEvent.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCSet.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProtocols.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccTypes.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListener.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCVector.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAnimation.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCValue.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionManager.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionEase.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionTween.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDictionary.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/uthash.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCString.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCMap.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCInteger.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCFloat.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCDouble.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCBool.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCNS.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCData.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGrabber.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDirector.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventType.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLabel.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCLayer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScene.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransition.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMenu.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSprite.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccShaders.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/ccUTF8.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCNotificationCenter.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCProfiling.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCVertex.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCScheduler.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCComponent.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/CCDeprecated.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+d/Users/victorwee/Pipes/Pipes/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.mm218"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/RootViewController.o [1mios/RootViewController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler60ea3f083defb841^be67e0093defb841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.mm0000000000000000^4319"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/RootViewController.o [1mios/RootViewController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Pipes\ iOS.hmap -I/Users/victorwee/Pipes/Pipes/bin/debug/ios/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/base -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/physics -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/ui -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/network -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/extensions -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources/i386 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources -F/Users/victorwee/Pipes/Pipes/bin/debug/ios -include /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch -MMD -MT dependencies -MF /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/RootViewController.dia -c /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/RootViewController.mm -o /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/RootViewController.o36"AEF851C6-64E5-4C41-A5B7-D0140B1E2D46-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCompileC build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/main.o /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418331913.876892
+e418331913.897178
+r1
+xCompileC
+xbuild/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/main.o
+x/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/main.m187"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/main.o [1mios/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera59fe0093defb841^47c7e5093defb841^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/main.m0000000000000000^4104"[1mCompileC[0m build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/main.o [1mios/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Pipes\ iOS.hmap -I/Users/victorwee/Pipes/Pipes/bin/debug/ios/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/base -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/physics -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/ui -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/network -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/extensions -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources/i386 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources -F/Users/victorwee/Pipes/Pipes/bin/debug/ios -include /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch -MMD -MT dependencies -MF /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/main.dia -c /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/main.m -o /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/main.o36"B560693B-06E8-4058-9EF2-0DC01B2C2536-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource /Users/victorwee/Pipes/Pipes/Resources/CloseNormal.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/CloseNormal.png
+s418331911.720175
+e418331911.721662
+r1
+xCpResource
+x/Users/victorwee/Pipes/Pipes/Resources/CloseNormal.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/CloseNormal.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/CloseNormal.png155"[1mCpResource[0m /Users/victorwee/Pipes/Pipes/Resources/CloseNormal.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/CloseNormal.png[0m276bb8073defb841^5ccbb8073defb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/CloseNormal.png0034602adfffdf42^809"[1mCpResource[0m /Users/victorwee/Pipes/Pipes/Resources/CloseNormal.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/CloseNormal.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/Resources/CloseNormal.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"F6B62A46-49BE-48AB-9468-4CAB16A809B6-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource /Users/victorwee/Pipes/Pipes/Resources/CloseSelected.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/CloseSelected.png
+s418331911.725048
+e418331911.726338
+r1
+xCpResource
+x/Users/victorwee/Pipes/Pipes/Resources/CloseSelected.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/CloseSelected.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/CloseSelected.png159"[1mCpResource[0m /Users/victorwee/Pipes/Pipes/Resources/CloseSelected.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/CloseSelected.png[0m71aeb9073defb841^edf2b9073defb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/CloseSelected.png0034602adfffdf42^815"[1mCpResource[0m /Users/victorwee/Pipes/Pipes/Resources/CloseSelected.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/CloseSelected.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/Resources/CloseSelected.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"20CCFD99-5ED6-4352-9C13-F97784C1F291-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource /Users/victorwee/Pipes/Pipes/Resources/HelloWorld.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/HelloWorld.png
+s418331911.727451
+e418331911.728729
+r1
+xCpResource
+x/Users/victorwee/Pipes/Pipes/Resources/HelloWorld.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/HelloWorld.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/HelloWorld.png153"[1mCpResource[0m /Users/victorwee/Pipes/Pipes/Resources/HelloWorld.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/HelloWorld.png[0m2447ba073defb841^1095ba073defb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/HelloWorld.png0034602adfffdf42^806"[1mCpResource[0m /Users/victorwee/Pipes/Pipes/Resources/HelloWorld.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/HelloWorld.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/Resources/HelloWorld.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"56DE070B-C0F9-4D73-80C5-746E41380F1A-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Default-568h@2x.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default-568h@2x.png
+s418331911.721745
+e418331911.724755
+r1
+xCpResource
+xios/Default-568h@2x.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Default-568h@2x.png128"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default-568h@2x.png[0m01e0b8073defb841^ea92b9073defb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Default-568h@2x.png0034602adfffdf42^793"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default-568h@2x.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Default-568h@2x.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"762B3316-C823-4DAE-BDF4-86B10483A2FF-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Default.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default.png
+s418331911.732677
+e418331911.734292
+r1
+xCpResource
+xios/Default.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Default.png112"[1mCpResource[0m ios/Default.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default.png[0m04aabb073defb841^35ecbb073defb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Default.png0034602adfffdf42^769"[1mCpResource[0m ios/Default.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Default.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"EFCF9945-CDFB-441A-B7E8-8C4FFA5A9317-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Default@2x.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default@2x.png
+s418331911.717419
+e418331911.719857
+r1
+xCpResource
+xios/Default@2x.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Default@2x.png118"[1mCpResource[0m ios/Default@2x.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default@2x.png[0m57d1b7073defb841^a94db8073defb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Default@2x.png0034602adfffdf42^778"[1mCpResource[0m ios/Default@2x.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Default@2x.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Default@2x.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"E3FF3EA0-087F-4946-8F1E-EC12C57F9FB5-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-100.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-100.png
+s418331911.718585
+e418331911.719821
+r1
+xCpResource
+xios/Icon-100.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-100.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-100.png114"[1mCpResource[0m ios/Icon-100.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-100.png[0mf4feb7073defb841^e946b8073defb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-100.png0034602adfffdf42^772"[1mCpResource[0m ios/Icon-100.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-100.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-100.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"9DBE44BF-CFF8-4F9B-A708-CEB21CC64D0A-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-114.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-114.png
+s418331911.726983
+e418331911.728739
+r1
+xCpResource
+xios/Icon-114.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-114.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-114.png114"[1mCpResource[0m ios/Icon-114.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-114.png[0mee43ba073defb841^c097ba073defb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-114.png0034602adfffdf42^772"[1mCpResource[0m ios/Icon-114.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-114.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-114.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"F6D23E58-227D-4AC2-9C78-1C3911A1D6F4-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-120.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-120.png
+s418331911.715850
+e418331911.717302
+r1
+xCpResource
+xios/Icon-120.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-120.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-120.png114"[1mCpResource[0m ios/Icon-120.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-120.png[0m2252b7073defb841^47aeb7073defb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-120.png0034602adfffdf42^772"[1mCpResource[0m ios/Icon-120.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-120.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-120.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"9D136F81-728C-4876-89DE-FF13ED07C354-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-144.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-144.png
+s418331911.730944
+e418331911.732396
+r1
+xCpResource
+xios/Icon-144.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-144.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-144.png114"[1mCpResource[0m ios/Icon-144.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-144.png[0ma229bb073defb841^506ebb073defb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-144.png0034602adfffdf42^772"[1mCpResource[0m ios/Icon-144.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-144.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-144.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"FAB0ED34-523A-40CE-B32A-23EB94733042-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-152.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-152.png
+s418331911.720782
+e418331911.721626
+r1
+xCpResource
+xios/Icon-152.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-152.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-152.png114"[1mCpResource[0m ios/Icon-152.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-152.png[0md191b8073defb841^9cc0b8073defb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-152.png0034602adfffdf42^772"[1mCpResource[0m ios/Icon-152.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-152.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-152.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"618231C0-081C-48BF-875D-4ED8B5AF32B6-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-29.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-29.png
+s418331911.729158
+e418331911.730485
+r1
+xCpResource
+xios/Icon-29.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-29.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-29.png112"[1mCpResource[0m ios/Icon-29.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-29.png[0mddb3ba073defb841^b30abb073defb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-29.png0034602adfffdf42^769"[1mCpResource[0m ios/Icon-29.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-29.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-29.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"94215B01-9DAC-4D29-AFBA-5A4FBBA730C6-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-40.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-40.png
+s418331911.729547
+e418331911.730455
+r1
+xCpResource
+xios/Icon-40.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-40.png112"[1mCpResource[0m ios/Icon-40.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-40.png[0m99d6ba073defb841^a302bb073defb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-40.png0034602adfffdf42^769"[1mCpResource[0m ios/Icon-40.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-40.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-40.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"5BFC6043-CE60-4C08-AA50-D17BE0212B55-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-50.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-50.png
+s418331911.725195
+e418331911.727006
+r1
+xCpResource
+xios/Icon-50.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-50.png112"[1mCpResource[0m ios/Icon-50.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-50.png[0m19afb9073defb841^ca19ba073defb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-50.png0034602adfffdf42^769"[1mCpResource[0m ios/Icon-50.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-50.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-50.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"FC91F0A0-1174-498E-9A80-74AC2021C569-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-57.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-57.png
+s418331911.732428
+e418331911.733880
+r1
+xCpResource
+xios/Icon-57.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-57.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-57.png112"[1mCpResource[0m ios/Icon-57.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-57.png[0m3ca1bb073defb841^97e1bb073defb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-57.png0034602adfffdf42^769"[1mCpResource[0m ios/Icon-57.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-57.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-57.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"F0DA31F0-1EE6-492E-88E1-65AC41F3D5BF-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-58.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-58.png
+s418331911.734402
+e418331911.735347
+r1
+xCpResource
+xios/Icon-58.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-58.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-58.png112"[1mCpResource[0m ios/Icon-58.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-58.png[0m350bbc073defb841^d140bc073defb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-58.png0034602adfffdf42^769"[1mCpResource[0m ios/Icon-58.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-58.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-58.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"736C1EB5-79CC-4608-A1EB-681694BE12BE-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-72.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-72.png
+s418331911.723939
+e418331911.724672
+r1
+xCpResource
+xios/Icon-72.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-72.png112"[1mCpResource[0m ios/Icon-72.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-72.png[0m815db9073defb841^ba86b9073defb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-72.png0034602adfffdf42^769"[1mCpResource[0m ios/Icon-72.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-72.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-72.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"F8D94952-BD33-4DBB-B5D6-997A35967B1A-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-76.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-76.png
+s418331911.716330
+e418331911.717868
+r1
+xCpResource
+xios/Icon-76.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-76.png112"[1mCpResource[0m ios/Icon-76.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-76.png[0mce70b7073defb841^8cb9b7073defb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-76.png0034602adfffdf42^769"[1mCpResource[0m ios/Icon-76.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-76.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-76.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"9355A309-F2F4-4F93-B98E-DD5BBBB9AA32-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CCpResource ios/Icon-80.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-80.png
+s418331911.731100
+e418331911.732044
+r1
+xCpResource
+xios/Icon-80.png
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-80.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Icon-80.png112"[1mCpResource[0m ios/Icon-80.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-80.png[0m0536bb073defb841^f168bb073defb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app/Icon-80.png0034602adfffdf42^769"[1mCpResource[0m ios/Icon-80.png [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Icon-80.png[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Icon-80.png /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app36"2F2D34DB-30D4-4D57-BA44-3E82612D2534-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CGenerateDSYMFile /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app.dSYM /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOS
+s418331920.548286
+e418331925.536023
+r1
+xGenerateDSYMFile
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app.dSYM
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Pipes iOS
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Generate /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app.dSYM164"[1mGenerateDSYMFile[0m [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app.dSYM[0m /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOSa9688c103defb841^9a4089153defb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes%20iOS.app.dSYM0034602adfffdf42^828"[1mGenerateDSYMFile[0m [1m/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app.dSYM[0m /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOS    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOS -o /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app.dSYM36"8AC4AB5C-0C02-4826-AA26-B9876FF01E4B-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CLd /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOS normal i386
+s418331915.734563
+e418331920.547087
+r1
+xLd
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Pipes iOS
+xnormal
+xi386
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/Pipes iOS.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/AppController.o
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/RootViewController.o
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/AppDelegate.o
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/main.o
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes iOS.build/Objects-normal/i386/HelloWorldScene.o
+d/Users/victorwee/Pipes/Pipes/bin/debug/ios/libbox2d iOS.a
+d/Users/victorwee/Pipes/Pipes/bin/debug/ios/libchipmunk iOS.a
+d/Users/victorwee/Pipes/Pipes/bin/debug/ios/libcocos2dx iOS.a
+d/Users/victorwee/Pipes/Pipes/bin/debug/ios/libcocos2dx-extensions iOS.a
+d/Users/victorwee/Pipes/Pipes/bin/debug/ios/libCocosDenshion iOS.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Link /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Pipes iOS91"[1mLd[0m /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOS normal i386eb1fbc0b3defb841^59168c103defb841^---0#0#1#--1952"[1mLd[0m /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOS normal i386    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/victorwee/Pipes/Pipes/bin/debug/ios -F/Users/victorwee/Pipes/Pipes/bin/debug/ios -filelist /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/Pipes\ iOS.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -stdlib=libc++ -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 /Users/victorwee/Pipes/Pipes/bin/debug/ios/libbox2d\ iOS.a /Users/victorwee/Pipes/Pipes/bin/debug/ios/libchipmunk\ iOS.a /Users/victorwee/Pipes/Pipes/bin/debug/ios/libcocos2dx\ iOS.a /Users/victorwee/Pipes/Pipes/bin/debug/ios/libcocos2dx-extensions\ iOS.a /Users/victorwee/Pipes/Pipes/bin/debug/ios/libCocosDenshion\ iOS.a -framework CoreMotion -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -lz -framework QuartzCore -framework OpenAL -framework AVFoundation -framework AudioToolbox -Xlinker -dependency_info -Xlinker /Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Objects-normal/i386/Pipes\ iOS_dependency_info.dat -o /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Pipes\ iOS36"0ABF46C3-9CC4-4FD7-88D1-53A26B20762B-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CProcessInfoPlistFile /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Info.plist /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Info.plist
+s418331911.708855
+e418331911.713996
+r1
+xProcessInfoPlistFile
+x/Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes iOS.app/Info.plist
+x/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Process /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Info.plist120"[1mProcessInfoPlistFile[0m /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Info.plist [1mios/Info.plist[0ma4c1b5073defb841^f7c8b6073defb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Info.plist0000000000000000^847"[1mProcessInfoPlistFile[0m /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Info.plist [1mios/Info.plist[0m    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Info.plist -genpkginfo /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app/Info.plist36"A058B54B-F6D9-4B54-842B-277A5B836AD4-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CProcessPCH /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418331911.759292
+e418331912.163508
+r1
+xProcessPCH
+x/var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch268"[1mProcessPCH[0m /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1f86c2073defb841^badb29083defb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch0000000000000000^4143"[1mProcessPCH[0m /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Pipes\ iOS.hmap -I/Users/victorwee/Pipes/Pipes/bin/debug/ios/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/base -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/physics -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/ui -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/network -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/extensions -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources/i386 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources -F/Users/victorwee/Pipes/Pipes/bin/debug/ios --serialize-diagnostics /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch.d -c /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch -o /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-akfqivpacflsgpbmqhkalwxibonn/Prefix.pch.pch36"5892B33E-3C12-4B83-9BC3-3DCE34AD6E7F-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CProcessPCH++ /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418331911.737157
+e418331911.758924
+r1
+xProcessPCH++
+x/var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch262"[1mProcessPCH++[0m /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler4606bd073defb841^4d49c2073defb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch0000000000000000^4017"[1mProcessPCH++[0m /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Pipes\ iOS.hmap -I/Users/victorwee/Pipes/Pipes/bin/debug/ios/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/base -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/physics -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/ui -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/network -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/extensions -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources/i386 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources -F/Users/victorwee/Pipes/Pipes/bin/debug/ios --serialize-diagnostics /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch.d -c /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch -o /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bszvhgkcksiduqfqfbyhlxizxmlt/Prefix.pch.pch36"34E40673-479F-4B99-842F-01FA0C9EA84D-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CProcessPCH++ /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418331911.736086
+e418331912.247296
+r1
+xProcessPCH++
+x/var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch272"[1mProcessPCH++[0m /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler3a91bc073defb841^a0503f083defb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch0000000000000000^4274"[1mProcessPCH++[0m /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/victorwee/Pipes/Pipes/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/victorwee/android-ndk-r9d:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/Users/victorwee/Desktop/cocos2d-x-3.0rc1/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/Pipes\ iOS.hmap -I/Users/victorwee/Pipes/Pipes/bin/debug/ios/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/base -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/physics -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/ui -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/network -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/extensions -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources/i386 -I/Users/victorwee/Pipes/Pipes/proj.ios_mac/build/Pipes.build/Debug-iphonesimulator/Pipes\ iOS.build/DerivedSources -F/Users/victorwee/Pipes/Pipes/bin/debug/ios --serialize-diagnostics /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch.d -c /Users/victorwee/Pipes/Pipes/proj.ios_mac/ios/Prefix.pch -o /var/folders/bs/0h_f5fzd74b77l9wy2qsrc9m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-erfwqvschsrrodcizvjrmqarhwjf/Prefix.pch.pch36"C7F49647-764B-4670-9461-3F1525F0F4FE-
+b91E65882-877F-42FE-8472-4C7FB3ACB080
+
+CTouch /Users/victorwee/Pipes/Pipes/bin/debug/ios/Pipes\ iOS.app
+r0
+

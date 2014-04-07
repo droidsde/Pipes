@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/victorwee/Pipes/Pipes/cocos2d/cocos/base/CCAffineTransform.cpp \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/base/CCAffineTransform.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/base/CCGeometry.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/2d/ccConfig.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/2d/../base/CCPlatformConfig.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/2d/platform/ios/CCPlatformDefine.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/2d/ccMacros.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/2d/../base/CCConsole.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/2d/platform/ios/CCStdC.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/kazmath.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/vec2.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/utility.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/vec3.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/mat3.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/mat4.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/quaternion.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/plane.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/aabb.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/ray2.h \
+  /Users/victorwee/Pipes/Pipes/cocos2d/build/../cocos/math/kazmath/kazmath/ray3.h
